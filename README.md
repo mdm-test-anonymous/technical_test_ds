@@ -18,8 +18,9 @@ Quand les données ne sont pas connues elles ont été renseignées à 0.
 Pour cela utiliser le fichier : data_ex_2.csv
 Les trois questions devront être traitée par deux modèles ensemblistes.
 
--  3ème partie : SQL
-L’objectif de cet exercice est de manipuler des données en sql
+-  3ème partie : 
+pour le test_technique_1 : L’objectif de cet exercice est de manipuler des données en sql
+pour le test_technique_2 : L'objectif de cet exercice est de manipuler des données en pandas et de créer une visualisation
 
 # Pour démarrer le test cliquer sur l'icone ci dessous
 
