@@ -23,6 +23,6 @@ L’objectif de cet exercice est de manipuler des données en sql
 
 # Pour démarrer le test cliquer sur l'icone ci dessous
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/mdm-test-anonymous/technical_test.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/mdm-test-anonymous/technical_test1.git/main)
 
 
