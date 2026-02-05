@@ -19,8 +19,13 @@ Pour cela, utiliser le fichier `data/data_exercice_1.csv`.
 Les trois questions devront être traitée par deux modèles ensemblistes.
 
 -  3ème partie :<br> 
+L'objectif de cet exercice est de manipuler des données en pandas et de créer une visualisation
+
+-  4ième partie (optionnelle) :<br> 
+L'objectif de cet exercice est de factoriser et packager votre code de manière à le rendre réutilisable, compréhensible et prêt pour une mise en production.
+
+-  5ième partie (optionnelle) :<br> 
 pour le test_technique_1 : L’objectif de cet exercice est de manipuler des données en sql<br>
-pour le test_technique_2 : L'objectif de cet exercice est de manipuler des données en pandas et de créer une visualisation
 
 # Pour démarrer le test, cliquer sur l'icône ci-dessous
 
