@@ -1,7 +1,7 @@
 # Présentation du test technique
 
 Ce test technique se réalise dans l'environnement Jupyter Notebook.
-Toutes les instructions se trouvent dans le notebook `test_technique1.ipynb`.
+Toutes les instructions se trouvent dans le notebook `test_technique.ipynb`.
 Une fois le test terminé, le candidat exporte son jupyter notebook en cliquant sur fichier / Télécharger / Télécharger le notebook
 
 # Contenu du test technique
