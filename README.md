@@ -25,7 +25,7 @@ L'objectif de cet exercice est de manipuler des données en pandas et de créer 
 L'objectif de cet exercice est de factoriser et packager votre code de manière à le rendre réutilisable, compréhensible et prêt pour une mise en production.
 
 -  5ième partie (optionnelle) :<br> 
-pour le test_technique_1 : L’objectif de cet exercice est de manipuler des données en sql<br>
+L’objectif de cet exercice est de manipuler des données en sql<br>
 
 # Pour démarrer le test, cliquer sur l'icône ci-dessous
 
